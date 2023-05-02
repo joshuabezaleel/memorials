@@ -214,6 +214,12 @@ During that KubeCon, she guided me, whenever we had a session in common, she wou
 
 May you rest in peace, your legacy definitively lives on 🦄🌈
 
+## Ryan Hartje
+
+I'm devistated to hear the news. Carolyn was a rare force of kindness, engineering, and personality. I didn't get the pleasure to work closely with her save for occasional Porter workshops and other CNCF events, but every time she brought an undeniable energy to every occasion. It's a sad day for us all to have lost someone who set a high bar for human compansion coupled with great engineering talent. My condolenses especially to the family.
+
+Let us all try a little harder to be kind to each other in her honor. 
+
 ## Joshua Bezaleel Abednego
 The chance I had to contributing to Porter and to know Carolyn was one of the best time I had in life, the one that I will always treasure for the rest of it. She was the kindest and the best of open source there is. She shaped the lives of so many people for the better. The interaction I had with her didn't just make me a better software engineer, but as Ralph said, she gave the example on how to be human and how to treat others. She made sure there's room for everyone which then she greeted with smile and welcoming hands. 
 
